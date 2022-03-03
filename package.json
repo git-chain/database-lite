@@ -1,6 +1,6 @@
 {
-  "name": "gitchain-db",
-  "version": "1.0.2",
+  "name": "paste-db",
+  "version": "1.0.0",
   "description": "A realtime, decentralized, offline-first, graph data synchronization engine.",
   "types": "index.d.ts",
   "main": "index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/git-chain/database.git"
+    "url": "git+https://github.com/git-chain/paste-db.git"
   },
   "keywords": [
     "gun",
@@ -48,9 +48,9 @@
   "author": "Mark Nadal",
   "license": "(Zlib OR MIT OR Apache-2.0)",
   "bugs": {
-    "url": "https://github.com/git-chain/database/issues"
+    "url": "https://github.com/git-chain/paste-db/issues"
   },
-  "homepage": "https://github.com/git-chain/database#readme",
+  "homepage": "https://github.com/git-chain/paste-db#readme",
   "engines": {
     "node": ">=0.8.4"
   },
